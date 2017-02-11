@@ -1,4 +1,4 @@
-
+/* General Styles ****************/
 
 body {
   background-color: lightblue;
@@ -27,6 +27,8 @@ header {
   background-size: cover;
 }
 
+
+/* Picture Styles */
 .prof-pic {
   width: 500px;
   height: 250px;
